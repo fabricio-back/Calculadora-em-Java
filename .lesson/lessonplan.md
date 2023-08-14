@@ -1,0 +1,3 @@
+# Teste de Performance 1
+
+O seguinte teste de performance tem por objetivo avaliar as competências previstas para etapa 1 e etapa 2 da disciplina regular “Fundamentos de Desenvolvimento Java”. O presente teste procura identificar se o aluno domina as instruções básicas da linguagem Java, além de permitir ao aluno relembrar ou mesmo melhorar capacidades relativas à construção de algoritmos, especialmente aqueles que requerem domínio mais explicito de controles de fluxo e repetição.
